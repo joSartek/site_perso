@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Visualize me"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -63,7 +63,7 @@ enableGitInfo = false
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "avatar.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "avatar2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "jonathan.sarton@univ-reims.fr"
@@ -305,31 +305,21 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Teaching"
+  url = "#teaching"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+   name = "CV"
+   url = "files/CV.pdf"
+   weight = 5
 
 # Search.
 [params.search]
@@ -372,3 +362,14 @@ enableGitInfo = false
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[languages.fr]
+ languageCode = "fr"
+ title = "Titre en Francais"
+ [languages.fr.params]
+   name = "Jonathan Sarton fr"
+   role = "Mon role fr"
+ [[languages.fr.menu.main]]
+   name = "Test fr"
+   url = "#about"
+   weight = 1
