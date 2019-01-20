@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in high performance visualization"
-  institution = "University of Reims Champagna-Ardenne - France"
+  institution = "Université de Reims Champagne-Ardenne - France"
   year = 2018
 
 [[education.courses]]
@@ -36,4 +36,5 @@ weight = 5
 
 # Biography
 
-I obtained my PhD in high performance visualization in November 2018 at Université de Reims (France)...
+My name is Jonathan Sarton and I am Temporary Assistant, Teaching and Research at Université de Reims Champagne-Ardenne in France.
+I obtained my PhD in high performance visualization in 2018 at Université de Reims (France).
