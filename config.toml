@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Visualize me"
+title = "Jonathan Sarton Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -58,8 +58,8 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-    { name = "Université de Reims Champagne-Ardenne", url = "" },
-    { name = "CReSTIC - France", url = "https://crestic.univ-reims.fr/en/" }
+    { name = "CReSTIC - France", url = "https://crestic.univ-reims.fr/en/" },
+    { name = "Université de Reims Champagne-Ardenne", url = "" }
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -106,7 +106,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
   day_night = true
 
