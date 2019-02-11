@@ -13,4 +13,13 @@ weight = 60
 
 +++
 
-Test de section qui parle de mes enseignements
+I am teacher assistant at the technological institut at Université de Reims Champagne-Ardenne.
+I am or have been involved in the following teaching modules :
+
+- Virtual reality and Angmented reality
+- WebGL (computer graphics introduction and application in webGL)
+- Fondamental algorithms and data structures
+- C++ programming
+- Introduction to OOP in Java
+- Human machine interfaces
+- Network architectures
