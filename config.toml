@@ -53,23 +53,23 @@ enableGitInfo = false
 
   # Your details.
   name = "Jonathan Sarton"
-  role = "PhD in High Performance Visualization"
+  role = "Assistant professor - High Performance Visualization"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-    { name = "CReSTIC - France", url = "https://crestic.univ-reims.fr/en/" },
-    { name = "Université de Reims Champagne-Ardenne", url = "" }
+    { name = "ICube laboratory - IGG team", url = "https://igg.icube.unistra.fr/en/index.php/Main_Page" },
+    { name = "Université de Strasbourg - France", url = "" }
   ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "avatar2.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jonathan.sarton@univ-reims.fr"
-  address = "I.U.T de Reims Chemin des Rouliers, Batiment C 2ème étage"
+  email = "sarton@unistra.fr"
+  address = "ICube UMR 7357 - 300 bd Sébastien Brant - CS 10413 - F-67412 Illkirch Cedex"
   office_hours = ""
-  phone = "+33 (0)3.26.91.84.52"
+  phone = "+33 (0)3.68.85.45.74"
   # skype = ""
   # telegram = ""
   keybase = ""  # Your keybase.io username.

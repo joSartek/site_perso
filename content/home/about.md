@@ -23,7 +23,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "M.Sc in computer science (visualization, image processing and high performance)"
+  course = "M.Sc in computer science (visualization, image processing and high performance computing)"
   institution = "University of Orléans - France"
   year = 2014
 
@@ -36,5 +36,6 @@ weight = 5
 
 # Biography
 
-My name is Jonathan Sarton and I am Temporary Assistant, Teaching and Research at Université de Reims Champagne-Ardenne in France.
-I obtained my PhD in high performance visualization in 2018 at Université de Reims (France).
+My name is Jonathan Sarton and I am assistant professor at Université de Strasbourg in France.
+I obtained my PhD in high performance visualization in 2018 at Université de Reims (France). The research I conducted during my PhD thesis focused on interactive visualization of very large volume datasets. In this context I proposed a GPU-based ray-guided approch combined with an out-of-core method for direct volume rendering on multi-GPU environnement. 
+
