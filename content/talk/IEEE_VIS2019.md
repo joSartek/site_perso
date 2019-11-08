@@ -2,8 +2,8 @@
 date = 2019-10-24T00:00:00  # Schedule page publish date.
 
 title = "Interactive Visualization and On-Demand Processing of Large Volume Data: A Fully GPU-Based Out-Of-Core Approach"
-time_start = 2019-10-24T09:00:00
-time_end = 2019-10-24T18:00:00
+time_start = 2019-10-24T11:00:00
+time_end = 2019-10-24T11:15:00
 abstract = ""
 abstract_short = ""
 event = "*IEEE VIS* 2019"
@@ -20,7 +20,7 @@ selected = true
 
 # Links (optional).
 url_pdf = ""
-url_slides = "/files/slides/IEE_VIS2019.pdf"
+url_slides = "/files/slides/IEEE_VIS2019.pdf"
 url_video = ""
 url_code = ""
 
