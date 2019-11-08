@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in high performance visualization"
+  course = "PhD in computer science - high performance visualization"
   institution = "Université de Reims Champagne-Ardenne - France"
   year = 2018
 
@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-My name is Jonathan Sarton and I am assistant professor at Université de Strasbourg in France.
+My name is Jonathan Sarton and I am associate professor at Université de Strasbourg in France.
 I obtained my PhD in high performance visualization in 2018 at Université de Reims (France). The research I conducted during my PhD thesis focused on interactive visualization of very large volume datasets. In this context I proposed a GPU-based ray-guided approch combined with an out-of-core method for direct volume rendering on multi-GPU environnement. 
 
