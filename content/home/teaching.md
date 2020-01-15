@@ -13,8 +13,15 @@ weight = 60
 
 +++
 
-I am teacher assistant at the technological institut at Université de Reims Champagne-Ardenne.
-I am or have been involved in the following teaching modules :
+I am a teacher at the University of Strasbourg (France) at the Mathematics & Computer Sciences Dpt. I am curently teaching :
+
+- Data Structures and Algorithms
+- Geometry for 3D
+- C programming
+- Parallel programming
+
+From 2015 to 2019 I taught at the Computer Sciences department of the technological institut at Université de Reims Champagne-Ardenne (France).
+I have been involved in the following teaching modules :
 
 - Virtual reality and Angmented reality
 - WebGL (computer graphics introduction and application in webGL)
